@@ -1,64 +1,9 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Lazer",
-      "age": 0
-    },
-    {
-      "name": "George",
+      "name": "Edwin",
       "age": 39,
-      "id": 2
-    },
-    {
-      "name": "Garzia",
-      "age": 33,
-      "id": 3
-    },
-    {
-      "name": "Gnishilda",
-      "age": 8,
-      "id": 4
-    },
-    {
-      "name": "Gnishilda",
-      "age": 8,
-      "id": 5
-    },
-    {
-      "name": "Gnishilda",
-      "age": 8,
-      "id": 6
-    },
-    {
-      "name": "Gnishilda",
-      "age": 8,
-      "id": 7
-    },
-    {
-      "name": "Gnishilda",
-      "age": 8,
-      "id": 8
-    },
-    {
-      "name": "Gnishilda",
-      "age": 8,
-      "id": 9
-    },
-    {
-      "name": "Gnishilda",
-      "age": 8,
-      "id": 10
-    },
-    {
-      "name": "Gnishilda",
-      "age": 8,
-      "id": 11
-    },
-    {
-      "name": "Gnishilda",
-      "age": 8,
-      "id": 12
+      "id": 1
     }
   ]
 }
